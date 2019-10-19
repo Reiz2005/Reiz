@@ -1,2 +1,2 @@
 # Reiz
-Reiz's C
+This is Reiz's Github
